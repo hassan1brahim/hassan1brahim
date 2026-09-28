@@ -55,9 +55,9 @@ The code is private for now. Happy to walk through it.
 
 | | | |
 |:--|:--|:--|
-| [**eufy-controller-bridge**](https://github.com/hassan1brahim/eufy-controller-bridge) | drive a robot vacuum with a PS5 controller | Python · MQTT |
-| [**HackRU**](https://github.com/HackRU/frontendv2/pulls?q=is%3Apr+author%3Ahassan1brahim+is%3Amerged) | Rebuilt the Fall 2026 landing page for 600+ hackers (yes, including the mushroom cursor), then went into the backend and [fixed bugs](https://github.com/HackRU/HackRU-Backend/pulls?q=is%3Apr+author%3Ahassan1brahim+is%3Amerged) | Next.js · AWS Lambda |
-| [**Job Ops**](https://github.com/hassan1brahim/codex-job-ops-template) | my internship search pipeline | Python · LaTeX |
+| [**eufy-controller-bridge**](https://github.com/hassan1brahim/eufy-controller-bridge) | The eufy app's joystick is miserable to drive with, so why not use a PS5 controller instead? Reverse-engineered the vacuum's protocol to make it happen | Python · MQTT |
+| [**HackRU**](https://github.com/HackRU/frontendv2) | Rebuilt the Fall 2026 landing page for 600+ hackers (yes, including the mushroom cursor), then went into the backend and fixed bugs | Next.js · AWS Lambda |
+| [**Job Ops**](https://github.com/hassan1brahim/codex-job-ops-template) | Got tired of refreshing job boards, so I automated it: it finds internships, scores each one 0-100 on how well it fits me, and tailors a LaTeX resume for the good ones. It never hits apply without me | Python · LaTeX |
 | [**ticket-classification-gh-action**](https://github.com/newjersey/ticket-classification-gh-action) | Built at the NJ Innovation Authority to triage TechOps tickets for 300+ staff. Doubled tickets resolved per session (4 to 8), so the people building New Jersey's public services get unblocked faster | Python · Sentence Transformers |
 
 Experience, more projects and my resume are on my **[portfolio](https://hassan-portfolio-mhassanibrahim123-3130s-projects.vercel.app)**.
