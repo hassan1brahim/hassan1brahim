@@ -56,7 +56,7 @@ The code is private for now. Happy to walk through it.
 | | | |
 |:--|:--|:--|
 | [**eufy-controller-bridge**](https://github.com/hassan1brahim/eufy-controller-bridge) | drive a robot vacuum with a PS5 controller | Python · MQTT |
-| [**Coding_malloc**](https://github.com/hassan1brahim/Coding_malloc) | malloc/free from scratch | C |
+| [**HackRU**](https://github.com/HackRU/frontendv2/pulls?q=is%3Apr+author%3Ahassan1brahim+is%3Amerged) | Rebuilt the Fall 2026 landing page for 600+ hackers (yes, including the mushroom cursor), then went into the backend and [fixed bugs](https://github.com/HackRU/HackRU-Backend/pulls?q=is%3Apr+author%3Ahassan1brahim+is%3Amerged) | Next.js · AWS Lambda |
 | [**Job Ops**](https://github.com/hassan1brahim/codex-job-ops-template) | my internship search pipeline | Python · LaTeX |
 | [**ticket-classification-gh-action**](https://github.com/newjersey/ticket-classification-gh-action) | ticket classifier I built at NJIA | Python · ML |
 
