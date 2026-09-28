@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0033&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Hassan;I+build+AtlasRU+for+Rutgers+students;full-stack+%2B+applied+AI;looking+for+SWE+%2F+AI+internships" alt="Hi, I'm Hassan" />
 
-CS @ Rutgers · AI Fellow @ NJ Innovation Authority · HackRU R&D · IBM Z Student Ambassador
+CS @ Rutgers · Prev. AI Fellow @ NJ Innovation Authority · HackRU R&D · IBM Z Student Ambassador
 
 <p><a href="https://atlasru.com"><img src="https://img.shields.io/badge/AtlasRU-live-CC0033?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://hassan-portfolio-mhassanibrahim123-3130s-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/hassan1brahim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:m.hassan.ibrahim.123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
