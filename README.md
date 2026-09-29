@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0033&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Hassan;I+build+AtlasRU+for+Rutgers+students;full-stack+%2B+applied+AI;looking+for+SWE+%2F+AI+internships" alt="Hi, I'm Hassan" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0033&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Hassan;I+build+AtlasRU+for+Rutgers+students;full-stack+%2B+applied+AI" alt="Hi, I'm Hassan" />
 
 CS @ Rutgers · Prev. AI Fellow @ NJ Innovation Authority · HackRU R&D · IBM Z Student Ambassador
 
