@@ -2,7 +2,7 @@
 
 <h1>Hassan Ibrahim</h1>
 
-<p><a href="https://atlasru.com"><img src="https://img.shields.io/badge/AtlasRU-live-CC0033?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://hassan-portfolio-mhassanibrahim123-3130s-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/hassan1brahim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:m.hassan.ibrahim.123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
+<p><a href="https://atlasru.com"><img src="https://img.shields.io/badge/AtlasRU-live-CC0033?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>&nbsp;<a href="https://hassan1brahim.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/hassan1brahim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:m.hassan.ibrahim.123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 </div>
 
@@ -18,7 +18,7 @@
 | [**Job Ops**](https://github.com/hassan1brahim/codex-job-ops-template) | Got tired of refreshing job boards, so I automated it: it finds internships, scores each one 0-100 on how well it fits me, and tailors a LaTeX resume for the good ones. It never hits apply without me | Python · LaTeX |
 | [**ticket-classification-gh-action**](https://github.com/newjersey/ticket-classification-gh-action) | Built at the NJ Innovation Authority to triage TechOps tickets for 300+ staff. Doubled tickets resolved per session (4 to 8), so the people building New Jersey's public services get unblocked faster | Python · Sentence Transformers |
 
-Experience, more projects and my resume are on my **[portfolio](https://hassan-portfolio-mhassanibrahim123-3130s-projects.vercel.app)**.
+Experience, more projects and my resume are on my **[portfolio](https://hassan1brahim.vercel.app)**.
 
 ---
 
